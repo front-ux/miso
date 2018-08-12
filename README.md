@@ -550,3 +550,5 @@ See [CONTRIBUTING](https://github.com/dmjio/miso/blob/master/CONTRIBUTING.md) fo
 ## License
 
 [BSD3](LICENSE) © David Johnson
+
+@kolier
